@@ -78,6 +78,6 @@ We use both short and long dialogue datasets to ensure robustness:
 ## 👥 Team
 This project was created by **UC Berkeley Master of Information and Data Science (MIDS)** students as part of the **Natural Language Processing with Deep Learning (W266)** course
 
-- Tingting, Li
-- Agnese, Minazzo
-- Michelle, Sinani
+- Tingting Li
+- Agnese Minazzo
+- Michelle Sinani
